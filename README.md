@@ -38,4 +38,4 @@ How to run run_analysis.R
 End result
 ---------------
 
-You will find a 'average_final_data.txt' file in the directory you are working on, which contains the cleaned and processed dataset.	
+You will find a `average_final_data.txt` file in the directory you are working on, which contains the cleaned and processed dataset.	
