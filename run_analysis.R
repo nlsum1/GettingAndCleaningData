@@ -28,7 +28,7 @@ dataX <- dataX[,noOfColumn]
 activityLabel <- read.table("activity_labels.txt")
 
 # replace the Y dataset with the activities labels
-dataY = activityLabel[dataY[,1], 2]
+dataY <- activityLabel[dataY[,1], 2]
 dataY <- gsub("_", " ", dataY)
 
 # name some of the variables with approriate names
