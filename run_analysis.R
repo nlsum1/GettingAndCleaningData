@@ -38,9 +38,6 @@ names(dataX) <- feature[noOfColumn,2]
 # Join all dataset into one cleaned table
 cleaned <- cbind(dataSubject, dataY, dataX)
 
-#renamed the second column
-
-
 #melted down the dataset
 meltedData <- melt(cleaned,measure.vars=names(cleaned[3:68]) )
 
