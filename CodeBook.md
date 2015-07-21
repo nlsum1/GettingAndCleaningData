@@ -31,7 +31,7 @@ The final table written in `average_final_data.txt` contains the following colum
 >				STANDING
 >				WALKING
 >				WALKING DOWNSTAIRS
->				WALKING UPSTAIRS" 
+>				WALKING UPSTAIRS
 
 * The columns from 3th to 68th are of the following variable names:
 
