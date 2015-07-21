@@ -1,8 +1,8 @@
-Getting and Cleaning Data Course Project Code Book
-====================================================
+Getting and Cleaning Data Course Project
+========================================
 
 Cleaning process being done:
-------------------------------
+-----------------------------
 
 The following process has been done to combine, cleaned and renamed variables of the involved datasets:
 
@@ -23,9 +23,9 @@ Final result:
 
 The final table written in `average_final_data.txt` contains the following columns:
 
-> Subject - the subject involved (from subject 1 to subject 30)
->
-> Activities - the activities perform by the subject, such as
+* Subject - the subject involved (from subject 1 to subject 30)
+
+* Activities - the activities perform by the subject, such as
 >				LAYING
 >				SITTING
 >				STANDING
@@ -33,7 +33,7 @@ The final table written in `average_final_data.txt` contains the following colum
 >				WALKING DOWNSTAIRS
 >				WALKING UPSTAIRS" 
 
-The columns from 3th to 68th are of the following variable names:
+* The columns from 3th to 68th are of the following variable names:
 
 > 				tBodyAcc-mean-X
 > 				tBodyAcc-mean-Y
